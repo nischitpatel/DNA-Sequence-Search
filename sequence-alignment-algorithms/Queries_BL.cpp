@@ -1,12 +1,11 @@
 /*
     Author: Nischit Bipinbhai Patel
-    NAU ID#: 6293990
     Course: INF503 Large Scale Data Structures
 */
 
 // Pre-processors
 #include "Queries_BL.h"
-#include "my_strings.h"
+#include "../helpers/my_strings.h"
 // #include "queries_ht.h"
 #include <math.h>
 #include <time.h>

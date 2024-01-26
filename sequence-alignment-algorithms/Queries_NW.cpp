@@ -1,6 +1,5 @@
 /*
     Author: Nischit Bipinbhai Patel
-    NAU ID#: 6293990
     Course: INF503 Large Scale Data Structures
 */
 
@@ -12,8 +11,8 @@
 #include <limits.h>
 #include <iomanip>
 #include <omp.h>
-#include "my_strings.h"
-#include "genome_processing.h"
+#include "../helpers/my_strings.h"
+#include "../helpers/genome_processing.h"
 #include "Queries_NW.h"
 
 using namespace std;

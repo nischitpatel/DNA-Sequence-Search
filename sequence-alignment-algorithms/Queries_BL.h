@@ -1,13 +1,12 @@
 /*
     Author: Nischit Bipinbhai Patel
-    NAU ID#: 6293990
     Course: INF503 Large Scale Data Structures
 */
 
 #ifndef QUERIES_BL_H
 #define QUERIES_BL_H
 
-#include "genome_processing.h"
+#include "../helpers/genome_processing.h"
 
 #define HT_SIZE 60000000
 // #define HT_SIZE 60

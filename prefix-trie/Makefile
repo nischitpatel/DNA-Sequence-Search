@@ -1,9 +1,9 @@
 CXX = g++
 CXXFLAGS = -std=c++11
 
-SRCS = main.cpp prefix_trie.cpp my_strings.cpp genomeprocessing.cpp
+SRCS = main.cpp prefix_trie.cpp ../helpers/my_strings.cpp ../helpers/genomeprocessing.cpp
 OBJS = $(SRCS:.cpp=.o)
-EXEC = HW5
+EXEC = main
 
 all: $(EXEC)
 
