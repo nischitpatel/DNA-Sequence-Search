@@ -17,9 +17,9 @@
 #include <iostream>
 #include <time.h>
 #include <iomanip>
-#include "genome_processing.h"
+#include "../helpers/genome_processing.h"
 #include "queries_ar.h"
-#include "my_strings.h"
+#include "../helpers/my_strings.h"
 
 using namespace std;
 

@@ -7,7 +7,7 @@
 #include <iostream>
 #include <iomanip>
 #include "queries_ar.h"
-#include "my_strings.h"
+#include "../helpers/my_strings.h"
 
 using namespace std;
 
