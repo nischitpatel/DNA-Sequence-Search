@@ -11,3 +11,6 @@ As the optimization journey continues, the repository culminates in the implemen
 1. Brute Force Implementation: Understand the challenges of large-scale data processing with a simple brute-force approach.
 2. Hash Tables: Explore the benefits of hash tables for efficient data searching and retrieval.
 3. Prefix Trie: Witness the transformational impact of implementing a prefix trie for optimized data structure handling.
+
+# read-file
+This is to know the contents in the file. To get familiar with the data stored in file.
