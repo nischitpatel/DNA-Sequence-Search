@@ -1,6 +1,5 @@
 /*
     Author: Nischit Bipinbhai Patel
-    NAU ID #: 6293990
     Course: INF503 Large scale data structures
 */
 
