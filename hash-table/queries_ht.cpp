@@ -12,7 +12,7 @@
 #include <fstream>
 #include <bits/stdc++.h>
 #include "queries_ht.h"
-#include "my_strings.h"
+#include "../helpers/my_strings.h"
 
 using namespace std;
 
