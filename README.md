@@ -1,7 +1,7 @@
-# Large-scale-data-structures
+# DNA Sequence Search
 
 ## Description:
-This GitHub repository showcases an in-depth exploration of handling large-scale data structures with a progressive approach to optimization. The journey begins with a basic brute-force implementation, emphasizing simplicity in processing and searching through extensive datasets. As the scale of data grows, it becomes evident that the brute-force approach is impractical due to excessive processing times.
+This GitHub repository showcases an in-depth exploration of handling large-scale data structures with a progressive approach to optimization. Here we are searching DNA sequences from 3 Biliion sequences. The journey begins with a basic brute-force implementation, emphasizing simplicity in processing and searching through extensive datasets. As the scale of data grows, it becomes evident that the brute-force approach is impractical due to excessive processing times.
 
 The repository provides a comprehensive demonstration of transitioning from the brute-force methodology to more efficient data structures. The initial implementation focuses on the challenges posed by large-scale data and highlights the need for optimization. Subsequent iterations introduce advanced data structures such as hash tables, illustrating their effectiveness in enhancing search efficiency.
 
